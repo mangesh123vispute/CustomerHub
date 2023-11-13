@@ -20,10 +20,10 @@ Django CRM is a web-based customer record management system built using the Djan
 
 ![image](https://github.com/mangesh123vispute/CustomerHub/assets/112755002/73d4e80b-4e4b-4674-855d-2e5901c2c0c6)
 
-![Uploading image.png…]()
+![image](https://github.com/mangesh123vispute/CustomerHub/assets/112755002/c3871363-79f5-4fe7-be1b-5b19cb6b9230)
 
 
-_Updating an existing customer record._
+
 
 ## Installation
 
